@@ -1,0 +1,37 @@
+body {background-image:url(acadmicsbk.jpg);
+         background-size: 100% 110%;
+		 background-repeat: no-repeat;
+		 background-size:cover;}
+
+.kv {
+		 font-size:40px;
+		 position:absolute; 
+		 top:70px;
+		 left:100px;
+   		 font-family:black chancery;}
+		 
+span {   font-weight:bold;
+          color:blue;}
+		  .acadmics {color:blue;}
+.kvs {font-size:30px;
+		 position:absolute; 
+		 top:70px;
+		 left:85px;
+   		 font-family:black chancery;}
+.check{position:absolute; 
+		 top:40px;
+		 left:-50px;}
+.jee  {
+		 font-size:40px;
+		 position:absolute; 
+		 top:220px;
+		 left:100px;
+   		 font-family:black chancery;}
+.iit {font-size:40px;
+		 position:absolute; 
+		 top:400px;
+		 left:100px;
+   		 font-family:black chancery;}
+.logo{position:absolute; 
+		 top:400px;
+		 left:800px;}
